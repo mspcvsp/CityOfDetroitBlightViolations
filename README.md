@@ -5,7 +5,7 @@ Erwin de Leon and Joseph Schilling introduce their April 2017 Urban Institute re
 
 Summary of the Analysis Results:
 -------------------------------
-The [AnalyzeBVNDataSet.ipynb Jupyter notebook] (https://github.com/mspcvsp/CityOfDetroitBlightViolations/blob/master/AnalyzeBVNDataSet.ipynb) illustrates my application of the Python programming language to answer three questions regarding the [City of Detroit MI Blight Violation Notices (BVN)](https://data.detroitmi.gov/Property-Parcels/Blight-Violations/ti6p-wcg4)public domain data set:  
+The [AnalyzeBVNDataSet Jupyter notebook](https://github.com/mspcvsp/CityOfDetroitBlightViolations/blob/master/AnalyzeBVNDataSet.ipynb) illustrates my application of the Python programming language to answer three questions regarding the [City of Detroit MI Blight Violation Notices (BVN)](https://data.detroitmi.gov/Property-Parcels/Blight-Violations/ti6p-wcg4)public domain data set:  
 
 1. Is the number of blight violations per month increasing, decreasing, or staying constant over time?
 2. Is the total balance due per month increasing, decreasing, or staying constant over time?
